@@ -1,0 +1,4 @@
+vrplib>=1.3.0
+numpy>=1.24.0
+openai>=1.30.0
+heumilkr>=0.4.0
